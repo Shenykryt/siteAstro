@@ -1,0 +1,71 @@
+<html>
+    <title>Астрономия</title>
+    <body>
+        <header>
+            <img src="http://drive.google.com/uc?export=view&id=1Qp-q8-2sDEDsqRfg6l5s1aLjj1pnmpu_" width="50px" height="50px"/>
+        </header>
+        <main>
+            <h1 style="text-align:center">Астрономия</h1>
+            <h2 style="text-align:center">Что изучает астрономия?</h2>
+            <img src="http://drive.google.com/uc?export=view&id=1vlzVLTWAscVGivAZZ56A6Qs67rR8U3_p" width="600px" height="400px"/>
+            <p>Астрономия является одной из древнейших наук. Она изучает движение и свойства всех небесных тел</p>
+            <h2 style="text-align:center">Планеты</h2>
+            <h3 style="text-align:center">Что такое планета?</h3>
+            <p>Планета- небесное тело шарообразной формы, вращающееся по орбите вокруг звезды</p>
+            <h2 style="text-align:center">Список планет Солнечной системы</h2>
+            <p>Меркурий</p>
+            <p>Венера</p>
+            <p>Земля</p>
+            <p>Марс</p>
+            <p>Юпитер</p>
+            <p>Сатурн</p>
+            <p>Уран</p>
+            <p>Нептун</p>
+            <h2 style="text-align:center">Звезды</h2>
+            <img src="http://drive.google.com/uc?export=view&id=1bGjZXyWwZG_EByEacTi_LTcKHbR2ZSeR"  width="400px" height="400px"/>
+            <p>Звезда- небесное тело в виде огромного расскаленного газового шара.</p>
+            <p>Звезды делятся на несколько типов:
+                Красные карлики,
+                Белые карлики,
+                Голубые гиганты,
+                Сверхгиганты.</p>
+            <h2 style="text-align:center">Список Солнечных затмений</h2>
+            <img src="http://drive.google.com/uc?export=view&id=1QTWhdS8JVD-fFVmCTJJBXKxhqIaIaOIo" width="500px" height="400px"/>
+            <table style="border:1px solid black;border-collapse:collapse">
+                <tr>
+                    <td>Дата</td>
+                    <td>Широта</td>
+                    <td>Долгота</td>
+                </tr>
+                <tr>
+                    <td>20.03.2015</td>
+                    <td>64.4N</td>
+                    <td>6.6W</td>
+                </tr>
+                <tr>
+                    <td>09.03.2016</td>
+                    <td>10.1N</td>
+                    <td>148.8E</td>
+                </tr>
+                <tr>
+                    <td>21.08.2017</td>
+                    <td>37.0N</td>
+                    <td>87.6W</td>
+                </tr>
+                <tr>
+                    <td>02.07.2019</td>
+                    <td>17.4S</td>
+                    <td>109.0W</td>
+                </tr>
+                <tr>
+                    <td>14.12.2020</td>
+                    <td>40.3S</td>
+                    <td>67.9W</td>
+                </tr>
+            </table>
+        </main>
+        <footer style="background-color:black">
+            <p style="color:white">Тел.:+7-123-456-789</p>
+        </footer>
+    </body>
+</html>
